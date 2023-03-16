@@ -16,5 +16,8 @@
     "vite-plugin-windicss": "^1.8.10",
     "vue-tsc": "^0.38",
     "windicss": "^3.5.6"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.7"
   }
 }
