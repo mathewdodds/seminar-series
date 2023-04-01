@@ -30,10 +30,10 @@
                     <div>{{ $frontmatter.access }}</div>
                 </div>
                 <div class="flex text-md mt-2">
-                    <a target="_blank" class="bg-blue-600 text-white font-semibold transition-all hover:shadow-xl rounded-lg py-2 px-3 mt-2" :href="$frontmatter.rsvp">Virtual Seminar - RSVP</a>
+                    <a target="_blank" class="bg-blue-600 text-white font-semibold transition-all hover:shadow-xl rounded-lg py-2 px-3 mt-2" :href="$frontmatter.rsvpVirtual">Virtual Seminar - RSVP</a>
                 </div>
                 <div class="flex text-md mt-2">
-                    <a target="_blank" class="bg-blue-600 text-white font-semibold transition-all hover:shadow-xl rounded-lg py-2 px-3 mt-2" :href="$frontmatter.rsvpVirtual">Attend in-person - RSVP</a>
+                    <a target="_blank" class="bg-blue-600 text-white font-semibold transition-all hover:shadow-xl rounded-lg py-2 px-3 mt-2" :href="$frontmatter.rsvp">Attend in-person - RSVP</a>
                 </div>
                 <hr class="mt-8">
                 <div class="text-gray-500 mt-6 mb-4 text-small">SEMINAR DESCRIPTION</div>
